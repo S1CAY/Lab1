@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FD4E5A1F-3235-4E2C-90E7-D5EC9924CB9F}</ProjectGuid>
+    <ProjectGuid>{E4B101F0-A485-4594-B544-367235D37425}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lab1_2023</RootNamespace>
-    <AssemblyName>lab1_2023</AssemblyName>
+    <RootNamespace>lab3</RootNamespace>
+    <AssemblyName>lab3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Address.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
